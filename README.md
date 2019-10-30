@@ -1,3 +1,5 @@
+> Fork, translated error message to Polish (it's easier for me to create fork than customise)
+
 # react-native-exception-handler ![npm](https://img.shields.io/npm/dm/react-native-exception-handler.svg)
 
 [![https://nodei.co/npm/react-native-exception-handler.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/react-native-exception-handler.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-native-exception-handler)
